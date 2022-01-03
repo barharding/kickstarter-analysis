@@ -33,7 +33,7 @@ Basic writing syntax errors
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-  - This dataset included live campaigns which should have bee 
+  - 
 
 - What can you conclude about the Outcomes based on Goals?
 
@@ -44,4 +44,4 @@ Basic writing syntax errors
   - Perform a goals analysis on Theatre kickstarts & Goals by country and by year
   - for the outcomes by launch date it would be effective to show the outcomes as a percentage by month.  when you do this you find that aside from December for all other months the success rate is between 56-66% a range of 10 percent.  
   - identify any outlier data and make decisions about the inclusion of this data
-  -  
+  -  Calculate summary statistics such as measures of central tendency, standard deviation, and variance for the subset of data we are analyzing, namely theatre campaigns
