@@ -25,6 +25,7 @@ This analysis will provide insights on how launch dates and funding goals impact
 ### Challenges and Difficulties Encountered
 
 countif issues -  copy to adjoining cells error due to not setting the absolute reference
+
 Basic writing syntax errors
 
 
