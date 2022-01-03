@@ -38,4 +38,4 @@ Basic writing syntax errors
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
--   perform a goals analysis on just Theatre kickstarters not just all
+  - perform a goals analysis on just Theatre kickstarters not just all
