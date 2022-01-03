@@ -6,6 +6,8 @@ This project focuses on generating insights and visualizing theatre kickstarter 
 
 ### Purpose
 
+This analysis will provide insights on how launch dates and funding goals impacted kickstarter success, failure, or cancellations of those campaigns.
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
