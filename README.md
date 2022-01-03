@@ -33,9 +33,15 @@ Basic writing syntax errors
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+  - This dataset included live campaigns which should have bee 
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
-  - perform a goals analysis on just Theatre kickstarters not just all
+  - perform a goals analysis on just Theatre kickstarters not just all to detemrine if Theatre specific outcomes are similar or dissimilar to all campaigns
+  - Perform a goals analysis on Theatre kickstarts & Goals by country and by year
+  - for the outcomes by launch date it would be effective to show the outcomes as a percentage by month.  when you do this you find that aside from December for all other months the success rate is between 56-66% a range of 10 percent.  
+  - identify any outlier data and make decisions about the inclusion of this data
+  -  
