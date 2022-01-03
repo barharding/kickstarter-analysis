@@ -12,6 +12,8 @@ This analysis will provide insights on how launch dates and funding goals impact
 
 ### Analysis of Outcomes Based on Launch Date
 
+
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
