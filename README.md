@@ -12,7 +12,7 @@ This analysis will provide insights on how launch dates and funding goals impact
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater Outcomes vs Launch Data] (./Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes vs Launch Data] (/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
