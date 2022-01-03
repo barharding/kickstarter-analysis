@@ -42,6 +42,6 @@ Basic writing syntax errors
 - What are some other possible tables and/or graphs that we could create?
   - perform a goals analysis on just Theatre kickstarters not just all to detemrine if Theatre specific outcomes are similar or dissimilar to all campaigns
   - Perform a goals analysis on Theatre kickstarts & Goals by country and by year
-  - for the outcomes by launch date it would be effective to show the outcomes as a percentage by month.  when you do this you find that aside from December for all other months the success rate is between 56-66% a range of 10 percent.  
+  - for the outcomes by launch date it would be effective to show the outcomes as a percentage by month.  when you do this you find that aside from December for all other months the success rate is between 56-66% a range of 10 percent. when you look at the chart without percentages the success numbers  in the month of May, June & July appear to be really high however when viewed as a percentage it is not as large there was simply a higher volume of campaigns in these months 40-50% more than the other months so it has the effect of appearing oversized.
   - identify any outlier data and make decisions about the inclusion of this data
   -  Calculate summary statistics such as measures of central tendency, standard deviation, and variance for the subset of data we are analyzing, namely theatre campaigns
