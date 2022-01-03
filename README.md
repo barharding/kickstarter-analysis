@@ -18,9 +18,15 @@ This analysis will provide insights on how launch dates and funding goals impact
 
 ### Analysis of Outcomes Based on Goals
 
+
 ![Outcomes Based on Goals](/Outcomes_vs_Goals.png)
 
+
 ### Challenges and Difficulties Encountered
+
+countif issues -  copy to adjoining cells error due to not setting the absolute reference
+Basic writing syntax errors
+
 
 ## Results
 
@@ -31,3 +37,4 @@ This analysis will provide insights on how launch dates and funding goals impact
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+-   perform a goals analysis on just Theatre kickstarters not just all
