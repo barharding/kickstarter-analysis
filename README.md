@@ -2,6 +2,8 @@
 
 ## Overview of Project
 
+This project focuses on generating insights and visualizing theatre kickstarter campaigns data based on Launch Date and Campaign Goals.  To acheive this goal it was important utilize formulas, filters, pivot tables as well as charts within excel.  When done well the ultimate outcome is to enable better decision making and/or provide more insights for further analysis.
+
 ### Purpose
 
 ## Analysis and Challenges
