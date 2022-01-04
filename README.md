@@ -38,6 +38,9 @@ Basic writing syntax errors
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
+  - There is no data to measure the effectiveness of the pitch
+  - There is no data about methods used to market the campaign to find backers.  Such has social media ads or other marketing efforts
+  - There is no demographic data about backers for historical campaigns to leverage for the purposes of pitch and marketing plan development
 
 - What are some other possible tables and/or graphs that we could create?
   - perform a goals analysis on just Theatre kickstarters not just all to detemrine if Theatre specific outcomes are similar or dissimilar to all campaigns
