@@ -12,7 +12,7 @@ This analysis will provide insights on how launch dates for Theatre campaigns an
 
 ### Analysis of Outcomes Based on Launch Date
 
-Starting in March the number of theatre compaigns being launched begins to increase, peaking in May and then trending down for the rest of the year.  The number of successful campaigns and failed campaigns increase and decrease in tandem.  The narrowest gap between successful and failed campaigns is in the month of October suggesting this would be the worst month to launch a campaign.  The widest gap between the two is in the months of May and June suggesting this is the best time to launch a campaign.  The number of cancelled campaigns is rather insignificant overall.
+Starting in March the number of theatre compaigns being launched begins to increase, peaking in May and then trending down for the rest of the year.  The measure of successful and failed campaigns moves in tandem as shown in the graph as there are more successful campaigns there is also and increase in failed campaigns.  In the graph we see the narrowest gap between successful and failed campaigns is in the month of October suggesting this would be the worst month to launch a campaign.  The widest gap between the two is in the months of May and June suggesting this is the best time to launch a campaign.  The number of cancelled campaigns is rather insignificant overall.
 
 ![Theater Outcomes vs Launch Data](/Theater_Outcomes_vs_Launch.png)
 
@@ -34,7 +34,7 @@ Basic writing syntax errors
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-  - 
+  - Based on the data even though there would be a high number of campaigns running in the months of May and June resulting in lots of competition these are still the best months to launch a theatre campaign.  The worst months for launching a kickstarter are November, December and January.
 
 - What can you conclude about the Outcomes based on Goals?
 
