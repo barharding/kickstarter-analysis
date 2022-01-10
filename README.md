@@ -59,6 +59,6 @@ In my initial draft for this readme report I could not get the graphs to appear 
    - Perform a goals analysis on Theatre kickstarts & Goals by country and by year
   - identify any outlier data and make decisions about the inclusion of this data
   -  Calculate summary statistics such as measures of central tendency, standard deviation, and variance for the subset of data we are analyzing, namely theatre campaigns
-  - For the outcomes by launch date it would be effective to show the outcomes as a percentage by month.  When you do this you find that aside from December for all other months the success rate is between 56-66% a range of 10 percent. When you look at the chart without percentages it has the effect of appearing oversized for those specific months when it is not that much different percentage-wise.  
+  - For the outcomes by launch date it would be effective to show the outcomes as a percentage by month, see chart on the right below.  When you do this you find that aside from December for all other months the success rate is between 56-66% a range of 10 percent. When you look at the chart without percentages, chart on the left, it has the effect of appearing oversized for those specific months when it is not that much different percentage-wise.  
   
 ![Launch by number vs percentage](/Launch_outcomes_launch_date_vs_percentage.png)
