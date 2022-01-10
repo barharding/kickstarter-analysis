@@ -45,21 +45,20 @@ In my initial draft for this readme report I could not get the graphs to appear 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-  - Based on the data even though there would be a high number of campaigns running in the months of May and June resulting in lots of competition these are still the best months to launch a theatre campaign.  The worst months for launching a kickstarter are November, December and January.
+  - Based on the data it would appear that even though there would be a high number of campaigns running in the months of May and June resulting in lots of competition, these are still the best months to launch a theatre campaign.  The worst months for launching a kickstarter are November, December and January.
 
 - What can you conclude about the Outcomes based on Goals?
   - The outocmes based on goals does indicate a high success rate for goals under $1000 however overall there does not seem to be enough information to conclude that goals impact success or failure because the results across the various goal ranges has no consistency.
 
 - What are some limitations of this dataset?
-  - There is no data to measure the effectiveness of the pitch
-  - There is no data about methods used to market the campaign to find backers.  Such has social media ads or other marketing efforts
-  - There is no demographic data about backers for historical campaigns to leverage for the purposes of pitch and marketing plan development
+  - There is no data to measure the effectiveness of the pitch (i.e. the details about what the play is about)
+  - There is no data about the methods used to market the campaign to potential kickstarter backers.  Did the founder leverage social media ads?  Or engage in other marketing efforts?
+  - There is no demographic data about backers from historical campaigns.  Demographic data could influence how the pitch is crafted and other marketing activities.
 
 - What are some other possible tables and/or graphs that we could create?
-  - perform a goals analysis on just Theatre kickstarters not just all to detemrine if Theatre specific outcomes are similar or dissimilar to all campaigns
-  - Perform a goals analysis on Theatre kickstarts & Goals by country and by year
+   - Perform a goals analysis on Theatre kickstarts & Goals by country and by year
   - identify any outlier data and make decisions about the inclusion of this data
   -  Calculate summary statistics such as measures of central tendency, standard deviation, and variance for the subset of data we are analyzing, namely theatre campaigns
-  - for the outcomes by launch date it would be effective to show the outcomes as a percentage by month.  when you do this you find that aside from December for all other months the success rate is between 56-66% a range of 10 percent. when you look at the chart without percentages the success numbers  in the month of May, June & July appear to be really high however when viewed as a percentage it is not as large there was simply a higher volume of campaigns in these months 40-50% more than the other months so it has the effect of appearing oversized.  The following side by side view of this demonstrates how the view as a number of campaigns is potentially misleading or rather it understates the equally as good performance in the other months.
-
+  - For the outcomes by launch date it would be effective to show the outcomes as a percentage by month.  When you do this you find that aside from December for all other months the success rate is between 56-66% a range of 10 percent. When you look at the chart without percentages it has the effect of appearing oversized for those specific months when it is not that much different percentage-wise.  
+  
 ![Launch by number vs percentage](/Launch_outcomes_launch_date_vs_percentage.png)
