@@ -34,9 +34,11 @@ Based on this data it would appear that the best goal amount is $1000 or lower a
 
 ### Challenges and Difficulties Encountered
 
-countif issues -  copy to adjoining cells error due to not setting the absolute reference
+#### Formula Error
+When i originally tabulated my outcomes based on goals table using the countif formula i copied my formula over from the first column and then manually adjusted the cell references.  Without realizing it i made two typos and when i generated my chart it does not look as expected.  When i inspected my cells I found the error.  I improved my formula by setting an absolute reference in my formula so i would not need to make manual adjustments.  
 
-Basic writing syntax errors
+#### Syntax Error
+In my initial draft for this readme report I could not get the graphs to appear because I was making a syntax error and was entering a space where there should not have been one.
 
 
 ## Results
