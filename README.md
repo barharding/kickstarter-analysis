@@ -12,8 +12,8 @@ This analysis will provide insights on how launch dates for Theatre campaigns an
 
 ### Analysis of Outcomes Based on Launch Date
 
-#### Trends Between Outcomes
-Starting in March the number of theatre compaigns being launched begins to increase, peaking in May and then trending down for the rest of the year.  The measure of successful and failed campaigns moves in tandem as shown in the graph.  We can see that as there are more successful campaigns there is also and increase in failed campaigns.  
+#### Trends
+Starting in March the number of theatre compaigns being launched begins to increase, peaking in May and then trending down for the rest of the year.  The measure of successful and failed campaigns moves in tandem as shown in the graph.  We can see that as there are more successful campaigns there is also and increase in failed campaigns.  The number of cancelled campaigns is consistently flat and does not appear to be impacted by launch date.
 
 #### Best & Worst Months for Launching a Theatre Campaign
 In the graph we see the narrowest gap between successful and failed campaigns is in the month of December suggesting this would be the worst month to launch a campaign.  The widest gap between the two is in the months of May and June suggesting this is the best time to launch a campaign.  The number of cancelled campaigns is rather insignificant overall.
@@ -23,6 +23,11 @@ In the graph we see the narrowest gap between successful and failed campaigns is
 
 ### Analysis of Outcomes Based on Goals
 
+#### Trends
+There does not appear to be any consistent trend between success or failure as the goal amounts increaase.  The jagged lines implies there is more at play than just the goal amount driving results.
+
+#### Best & Worst Goal Ranges
+Based on this data it would appear that the best goal amount is $1000 or lower and $35000-39999.  The worst goal amounts are $45000 to $49999 and $25000 to $29999.
 
 ![Outcomes Based on Goals](/Outcomes_vs_Goals.png)
 
