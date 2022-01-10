@@ -35,7 +35,7 @@ Based on this data it would appear that the best goal amount is $1000 or lower a
 ### Challenges and Difficulties Encountered
 
 #### Formula Error
-When i originally tabulated my outcomes based on goals table using the countif formula i copied my formula over from the first column and then manually adjusted the cell references.  Without realizing it i made two typos and when i generated my chart it does not look as expected.  When i inspected my cells I found the error.  I improved my formula by setting an absolute reference in my formula so i would not need to make manual adjustments.  
+When i originally tabulated my outcomes based on goals table using the countif formula i copied my formula over from the first column and then manually adjusted the cell references.  Without realizing it I made two typos and when I generated my chart it did not look as expected.  When i inspected my cells I found the error.  I improved my formula by setting an absolute reference in my formula so i would not need to make manual adjustments when i copied my cell to the right.  
 
 #### Syntax Error
 In my initial draft for this readme report I could not get the graphs to appear because I was making a syntax error and was entering a space where there should not have been one.
@@ -48,6 +48,7 @@ In my initial draft for this readme report I could not get the graphs to appear 
   - Based on the data even though there would be a high number of campaigns running in the months of May and June resulting in lots of competition these are still the best months to launch a theatre campaign.  The worst months for launching a kickstarter are November, December and January.
 
 - What can you conclude about the Outcomes based on Goals?
+  - The outocmes based on goals does indicate a high success rate for goals under $1000 however overall there does not seem to be enough information to conclude that goals impact success or failure because the results across the various goal ranges has no consistency.
 
 - What are some limitations of this dataset?
   - There is no data to measure the effectiveness of the pitch
